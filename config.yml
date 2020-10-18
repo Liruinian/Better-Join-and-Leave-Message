@@ -1,0 +1,19 @@
+# 本插件中 所有 的 & 彩色代码都可以使用 & 代替
+Enable: true
+# 启用本插件（false禁用）
+Opjoin: 
+    - '&6&l&m &f&l&m                          &6&l&m '
+    - ' &7[&4管理员&7] &4 %player% &e加入了游戏！'
+    - '&6&l&m &f&l&m                          &6&l&m '
+Opleave: 
+    - '&6&l&m &f&l&m                          &6&l&m '
+    - ' &7[&4管理员&7] &4 %player% &e退出了游戏！'
+    - '&6&l&m &f&l&m                          &6&l&m '
+Playerjoin:
+    - '&6&l&m &f&l&m                          &6&l&m '
+    - ' &7[&2玩家&7] &a %player% &e加入了游戏！'
+    - '&6&l&m &f&l&m                          &6&l&m '
+Playerleave:
+    - '&6&l&m &f&l&m                          &6&l&m '
+    - ' &7[&2玩家&7] &a %player% &e退出了游戏！'
+    - '&6&l&m &f&l&m                          &6&l&m '
